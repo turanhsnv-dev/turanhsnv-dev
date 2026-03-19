@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kamil%20Gadimaliyev&fontSize=60&animation=twinkling&fontAlignY=38&fontAlign=50&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=55&descAlign=50" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kamil%20Gadimaliyev&fontSize=70&animation=twinkling&fontAlignY=38&fontAlign=50&desc=Frontend%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" width="100%">
 </div>
 
-Modern və miqyaslana bilən (scalable) veb tətbiqlər qurmağa fokuslanmış Frontend Developer. Əsas ekspertizam React ekosistemi (**Next.js, TypeScript**) və performans optimallaşdırması üzərindədir. Təmiz kod yazmağı və istifadəçi mərkəzli interfeyslər (UI/UX) yaratmağı hədəfləyirəm.
+Frontend Developer focused on building modern, scalable, and high-performance web applications. My core expertise lies within the React ecosystem (**Next.js, TypeScript**) and pixel-perfect UI development. I am passionate about writing clean, maintainable code and delivering exceptional user experiences.
 
 ### 💻 Tech Stack
 
@@ -19,8 +19,8 @@ Modern və miqyaslana bilən (scalable) veb tətbiqlər qurmağa fokuslanmış F
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Tools:**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Architecture:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 
 ---
@@ -46,7 +46,7 @@ Modern və miqyaslana bilən (scalable) veb tətbiqlər qurmağa fokuslanmış F
 
 ---
 
-### 📫 Contact
+### 📫 Contact & Links
 
 <a href="https://kamil.nantech.az/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kamil-qədiməliyev-in-024ab31b7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
